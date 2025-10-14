@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Gatsby and TypeScript
 
-[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/devbox/starter-rp-gatsby-ts-2-ln5zjd)
+[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/react-pdf-dev/starter-rp-gatsby-ts/main?import=true)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Gatsby and TypeScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
